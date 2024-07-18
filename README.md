@@ -32,3 +32,6 @@
 
 <p><b>Main.java</b></p>
 <a href="https://ibb.co/Pt8wBt1"><img src="https://i.ibb.co/25BgX5c/Whats-App-Image-2024-07-18-at-19-36-08-86e383ff.jpg" alt="Whats-App-Image-2024-07-18-at-19-36-08-86e383ff" border="0"></a>
+
+<p><b>Person Class:</b> A simple class that implements the Serializable interface, indicating that objects of this class can be serialized.</p>
+<p><b>Main Class:</b> Demonstrates the process of serialization and deserialization. The Person object is serialized to a file named person.ser and then deserialized from this file.</p>
