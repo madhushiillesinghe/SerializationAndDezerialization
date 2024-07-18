@@ -28,4 +28,4 @@
 <h3>Example Code</h3>
 <p>Person class that needs to be serialized and deserialized.</p>
 <p><b>Person.java</b></p>
-![Alt Text](src/main/resources/assets/Screenshot 2024-07-18 133230.png)
+![Alt Text](assets/Screenshot 2024-07-18 133230.png)
