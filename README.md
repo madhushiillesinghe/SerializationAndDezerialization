@@ -28,3 +28,4 @@
 <h3>Example Code</h3>
 <p>Person class that needs to be serialized and deserialized.</p>
 <p><b>Person.java</b></p>
+![Alt Text](https://github.com/madhushiillesinghe/SerializationAndDezerialization/blob/master/src/main/resources/assets/Screenshot%202024-07-18%20133230.png)
