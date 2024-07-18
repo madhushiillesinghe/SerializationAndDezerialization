@@ -28,4 +28,7 @@
 <h3>Example Code</h3>
 <p>Person class that needs to be serialized and deserialized.</p>
 <p><b>Person.java</b></p>
-![Alt Text](https://github.com/madhushiillesinghe/SerializationAndDezerialization/blob/master/src/main/resources/assets/Screenshot%202024-07-18%20133230.png)
+<a href="https://ibb.co/K93zZFD"><img src="https://i.ibb.co/rZ1fP43/Whats-App-Image-2024-07-18-at-19-36-08-1480d906.jpg" alt="Whats-App-Image-2024-07-18-at-19-36-08-1480d906" border="0"></a>
+
+<p><b>Main.java</b></p>
+<a href="https://ibb.co/Pt8wBt1"><img src="https://i.ibb.co/25BgX5c/Whats-App-Image-2024-07-18-at-19-36-08-86e383ff.jpg" alt="Whats-App-Image-2024-07-18-at-19-36-08-86e383ff" border="0"></a>
