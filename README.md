@@ -28,4 +28,4 @@
 <h3>Example Code</h3>
 <p>Person class that needs to be serialized and deserialized.</p>
 <p><b>Person.java</b></p>
-![Alt Text](assets/Screenshot 2024-07-18 133230.png)
+![Alt Text](https://github.com/madhushiillesinghe/Chat-Application/blob/f179ef8fbc14b5eeb503afe9aaad5abe332a6a18/server/src/main/resources/assest/ScreenshotLogin.png)
